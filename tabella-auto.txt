@@ -1,0 +1,12 @@
+ID -
+Modello -
+Casa_produttrice -
+Tipo -
+Versione -
+Codice_immatricolazione -
+Anno_immatricolazione -
+Chilometri -
+Carburante -
+Stato -
+Descrizione - 
+Prezzo -
