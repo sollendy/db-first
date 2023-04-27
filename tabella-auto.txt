@@ -1,12 +1,12 @@
-ID -
-Modello -
-Casa_produttrice -
-Tipo -
-Versione -
-Codice_immatricolazione -
-Anno_immatricolazione -
-Chilometri -
-Carburante -
-Stato -
-Descrizione - 
-Prezzo -
+ID - INT NOT NULL AUTO_INCREMENT
+Modello - VARCHAR(100) INT NOT NULL
+Casa_produttrice - VARCHAR(50) INT NOT NULL
+Tipo - INT VARCHAR (100) NOT NULL
+Versione - INT VARCHAR(100) NOT NULL
+Codice_immatricolazione - INT NOT NULL
+Anno_immatricolazione - INT NOT NULL
+Chilometri - INT NULL
+Carburante - VARCHAR(30) NOT NULL
+Stato - VARCHAR(30) NOT NULL
+Descrizione - VARCHAR(200) INT NULL
+Prezzo - INT NOT NULL
